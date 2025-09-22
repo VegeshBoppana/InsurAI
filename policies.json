@@ -18,5 +18,15 @@
     "coverage": 160000,
     "benefits": "Accident cover, theft protection, roadside assistance",
     "timestamp": 1758522369
+  },
+  {
+    "name": "Basic",
+    "phone": "+916301989290",
+    "email": "saivegeshbopp@gmail.com",
+    "plan": "I am looking for the car insurance",
+    "premium": 5280,
+    "coverage": 160000,
+    "benefits": "Accident cover, theft protection, roadside assistance",
+    "timestamp": 1758524943
   }
 ]

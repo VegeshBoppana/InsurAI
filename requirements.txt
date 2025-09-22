@@ -6,3 +6,4 @@ openai
 langgraph
 pydantic
 PyPDF2
+resend
